@@ -13,7 +13,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 ### Why Genetic defintion? 
   Provides insight into management levels within a company.
  
-![Image](https://github.com/simo061991/process-and-application-modelling/blob/master/slike/genetskaDef.png)  
+![Image](process-and-application-modelling/slike/genetskaDef.png)  
 
 
 
