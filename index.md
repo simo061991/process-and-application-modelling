@@ -31,5 +31,15 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 
 ![Image](slike/pk.png)
 
+## 4th step : E/R model
+
+### What is E/R model? 
+  E/R model is a set of attributes,entities and links.
+  
+  ### Parts of E/R model? 
+  In this case, we have 13 tables, where there are 4 junction tables.
+  
+![Image](slike/er.png)
+
 
 
