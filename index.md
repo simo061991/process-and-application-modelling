@@ -40,7 +40,9 @@ Next step involves modeling entities and relationships with ER tool.The final ac
   In this case, we have 13 tables, where there are 4 junction tables.
   
 ![Image](slike/er.png)
-# FINAL IMPLEMENTATION 
+## FINAL STEP : Implementation through the APEX system.
+### What is apex?
+  Apex - development platform for scalable and secure apps.
  
 [VISIT AND EXPLORE APP!](https://apex.oracle.com/pls/apex/f?p=90247:1:7958736161331:::::)
 
