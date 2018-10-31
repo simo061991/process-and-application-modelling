@@ -41,6 +41,6 @@ Next step involves modeling entities and relationships with ER tool.The final ac
   
 ![Image](slike/er.png)
 # FINAL IMPLEMENTATION 
-  [Link] https://apex.oracle.com/pls/apex/f?p=90247:1:7958736161331:::::
-
+ 
+[Jekyll Now](https://apex.oracle.com/pls/apex/f?p=90247:1:7958736161331:::::)
 
