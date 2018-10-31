@@ -12,8 +12,8 @@ Next step involves modeling entities and relationships with ER tool.The final ac
   Genetic definition is sketch-based tool that is composed of : supliers, buyers, owner and informations between them.
 ### Why Genetic defintion? 
   Provides insight into management levels within a company.
- 
-![Image](process-and-application-modelling/slike/genetskaDef.png)  
+  
+![Image](slike/er.png)  
 
 
 
