@@ -20,7 +20,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 ### What is PDD? 
   PDD is a graphical representation of specific activities per process.
   
-![Image](slike/pdd.png)
+![Image](slike/pdd_novi.png)
 
 
 
