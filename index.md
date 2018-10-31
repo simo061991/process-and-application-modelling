@@ -13,7 +13,14 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 ### Why Genetic defintion? 
   Provides insight into management levels within a company.
   
-![Image](slike/er.png)  
+![Image](slike/genetskaDef.png)
+
+## 2nd step : Process decomposition diagram (PDD)
+
+### What is PDD? 
+  PDD is a graphical representation of specific activities per process.
+  
+![Image](slike/pdd.png)
 
 
 
