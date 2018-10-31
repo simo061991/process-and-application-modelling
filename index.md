@@ -40,6 +40,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
   In this case, we have 13 tables, where there are 4 junction tables.
   
 ![Image](slike/er.png)
-
+# FINAL IMPLEMENTATION 
+  [Link] https://apex.oracle.com/pls/apex/f?p=90247:1:7958736161331:::::
 
 
