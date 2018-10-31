@@ -22,5 +22,14 @@ Next step involves modeling entities and relationships with ER tool.The final ac
   
 ![Image](slike/pdd_novi.png)
 
+## 3rd step : Process/class matrix and workflow diagram
+
+### What is p/c matrix? 
+  P/C matrix is a tool to determinate relations between data class and company department.
+### What is WFD 
+  WFD shows us detailed flow between documents and materials.
+
+![Image](slike/pk.png)
+
 
 
