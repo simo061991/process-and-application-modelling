@@ -9,7 +9,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 ## First step : Genetic Defintion 
 
 ### What is Genetic defintion? 
-  Genetic definition is sketch-based tool that is composed of : supliers, buyers, owner and informations between them.
+  Genetic definition is sketch-based tool that is composed of supliers, buyers, owner and informations between them.
 ### Why Genetic defintion? 
   Provides insight into management levels within a company.
   
@@ -26,7 +26,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 
 ### What is p/c matrix? 
   P/C matrix is a tool to determinate relations between data class and company department.
-### What is WFD 
+### What is WFD? 
   WFD shows us detailed flow between documents and materials.
 
 ![Image](slike/pk.png)
@@ -34,7 +34,7 @@ Next step involves modeling entities and relationships with ER tool.The final ac
 ## 4th step : E/R model
 
 ### What is E/R model? 
-  E/R model is a set of attributes,entities and links.
+  E/R model is a set of attributes, entities and links.
   
 ### Parts of E/R model? 
   In this case, we have 13 tables, where there are 4 junction tables.
